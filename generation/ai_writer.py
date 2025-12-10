@@ -1,4 +1,7 @@
-# ai_generation/generate_ai_articles_extra.py
+"""
+AI content generation script.
+Uses OpenAI API to generate AI-written articles based on human articles.
+"""
 import json
 import os
 import time

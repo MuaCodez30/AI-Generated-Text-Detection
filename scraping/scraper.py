@@ -1,4 +1,7 @@
-# scraping/scraper.py
+"""
+Web scraping utility for collecting articles.
+Scrapes articles from news websites and saves them in JSON format.
+"""
 import requests
 from bs4 import BeautifulSoup
 import time
